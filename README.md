@@ -34,8 +34,7 @@ For a detailed breakdown of my analysis, check out my **full security report**:
 
 ## **📢 Connect With Me!**
 I'm actively learning and open to cybersecurity opportunities! Let’s connect:  
-🔗 **LinkedIn:** https://www.linkedin.com/in/vanessa-christy-703580356/  
-🔗 **GitHub:** [Insert Your GitHub Profile]  
+🔗 **LinkedIn:** https://www.linkedin.com/in/vanessa-christy-703580356/   
 
 💡 **Feedback is welcome!** Let me know if you have any suggestions or insights on improving my security analysis techniques. 🚀  
 
