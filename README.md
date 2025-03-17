@@ -30,7 +30,7 @@ This project demonstrates my skills as an **aspiring Security Analyst** by inves
 
 ## **📄 Report & Documentation**
 For a detailed breakdown of my analysis, check out my **full security report**:  
-🔗 [Download Report (PDF)](Insert-Link-Here)
+🔗 [Download Report (PDF)](https://github.com/Vanessa11-AuraForms/Security-Analysis-Project-/blob/main/Security%20Incident%20Investigation%20Report.pdf)
 
 ## **📢 Connect With Me!**
 I'm actively learning and open to cybersecurity opportunities! Let’s connect:  
